@@ -1,0 +1,13 @@
+name: DDPProject
+title: DDPProject
+username:
+account: frankoelker
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4298656
+bundleId: 4739123
+url: https://frankoelker.shinyapps.io/DDPProject/
+when: 1624278169.19783
+lastSyncTime: 1624278169.19783
+asMultiple: FALSE
+asStatic: FALSE

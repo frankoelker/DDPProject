@@ -1,0 +1,41 @@
+Coursera Course Developing Data Products 
+========================================================
+author: Frank Oelker
+date: June 2021
+autosize: true
+
+
+Introduction
+========================================================
+
+This presentation is part of the [Developing Data Products]
+(https://www.coursera.org/learn/data-products?) course.
+
+The peer assessed assignment has two parts
+- a **Shiny application** and 
+- this reproducible pitch **presentation** about the application.
+
+This is an R presentation generated with RStudio.
+
+Shiny App
+========================================================
+
+The **Shiny App** is a simple interface to build a regression model of the 
+**mtcars** dataset.
+
+You can build a regression model of **mpg** (miles per gallon) against the other 
+data fields. 
+
+mtcars dataset
+========================================================
+
+```{r mtcars}
+head(mtcars)
+```
+
+Links
+========================================================
+
+[Shiny App](https://frankoelker.shinyapps.io/DDPProject) 
+
+[GitHub repository](https://github.com/frankoelker/DDPProject)
